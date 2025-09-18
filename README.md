@@ -1,2 +1,2 @@
 # data-structure-with-c
-this is my first vs file 
+this is my first ds file 
